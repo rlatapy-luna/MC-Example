@@ -325,9 +325,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 6J2XDDYT2W;
+				DEVELOPMENT_TEAM = C4NN95Z6MU;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "MultipeerVideo-Assignment/Info.plist";
 				INFOPLIST_KEY_NSCameraUsageDescription = "This app needs your camera permission to record video and send it to the host.";
@@ -343,11 +344,12 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.cleanrun.MultipeerVideo-Assignment";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.cleanrun.MultipeerVideo-Assignment.lunabee";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
-				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -359,9 +361,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 6J2XDDYT2W;
+				DEVELOPMENT_TEAM = C4NN95Z6MU;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "MultipeerVideo-Assignment/Info.plist";
 				INFOPLIST_KEY_NSCameraUsageDescription = "This app needs your camera permission to record video and send it to the host.";
@@ -377,11 +380,12 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.cleanrun.MultipeerVideo-Assignment";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.cleanrun.MultipeerVideo-Assignment.lunabee";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
-				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
